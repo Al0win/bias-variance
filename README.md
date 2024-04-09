@@ -1,1 +1,2 @@
-# bias-variance
+# Bias Variance Tradeoff for Different Models
+Due to the continued growth of Machine Learning and its hypothesis' in the recent years, anyone who wants to generate an accurate model...
